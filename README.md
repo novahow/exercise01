@@ -4,7 +4,7 @@
 Flat is better than nested.
 ```
 
-​	多重迴圈會是巢狀if-else 經常扼殺了程式的可讀性， 這句話非常有道理。
+​	多重迴圈或是巢狀if-else 經常扼殺了程式的可讀性， 這句話非常有道理。
 
 ```
 Simple is better than complex.
